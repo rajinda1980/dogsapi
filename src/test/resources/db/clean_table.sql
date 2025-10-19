@@ -1,0 +1,2 @@
+DELETE FROM dogs;
+DELETE FROM supplier;
